@@ -1,4 +1,9 @@
 <resources>
     <string name="app_name">Animation</string>
     <string name="vector_animation">Vector Animation</string>
+    <string name="start_animation">start animation</string>
+    <string name="next_animation">next animation</string>
+    <string name="stop_animation">Stop animation</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="prev_animation">Previous Animation</string>
 </resources>
