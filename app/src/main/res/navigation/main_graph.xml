@@ -8,6 +8,6 @@
     <fragment
         android:id="@+id/animationVectorFragment"
         android:name="com.sarvarmasharipov72.animation.AnimationVectorFragment"
-        android:label="@string/vetor_animation"
+        android:label="@string/vector_animation"
         tools:layout="@layout/fragment_animation_vector" />
 </navigation>
