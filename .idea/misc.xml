@@ -3,7 +3,13 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/Acer/AndroidStudioProjects/Animation/app/src/main/res/drawable/ic_baseline_play_arrow_24.xml" value="0.1935" />
+        <entry key="..\:/Users/Acer/AndroidStudioProjects/Animation/app/src/main/res/drawable/seekable_anim.xml" value="0.115" />
+        <entry key="..\:/Users/Acer/AndroidStudioProjects/Animation/app/src/main/res/drawable/vector_anim_res.xml" value="0.1935" />
+        <entry key="..\:/Users/Acer/AndroidStudioProjects/Animation/app/src/main/res/drawable/vector_animator_root.xml" value="0.1935" />
         <entry key="..\:/Users/Acer/AndroidStudioProjects/Animation/app/src/main/res/layout/activity_main.xml" value="0.27447916666666666" />
+        <entry key="..\:/Users/Acer/AndroidStudioProjects/Animation/app/src/main/res/layout/fragment_animation_vector.xml" value="0.27447916666666666" />
+        <entry key="..\:/Users/Acer/AndroidStudioProjects/Animation/app/src/main/res/layout/fragment_seekable_animation.xml" value="0.27447916666666666" />
       </map>
     </option>
   </component>
