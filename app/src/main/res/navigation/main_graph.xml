@@ -7,7 +7,20 @@
 
     <fragment
         android:id="@+id/animationVectorFragment"
-        android:name="com.sarvarmasharipov72.animation.AnimationVectorFragment"
+        android:name="com.sarvarmasharipov72.animation.ui.animator_vector.AnimationVectorFragment"
         android:label="@string/vector_animation"
-        tools:layout="@layout/fragment_animation_vector" />
+        tools:layout="@layout/fragment_animation_vector" >
+        <action
+            android:id="@+id/action_animationVectorFragment_to_seekableAnimationFragment"
+            app:destination="@id/seekableAnimationFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/seekableAnimationFragment"
+        android:name="com.sarvarmasharipov72.animation.ui.seekable_animation_vector.SeekableAnimationFragment"
+        android:label="fragment_seekable_animation"
+        tools:layout="@layout/fragment_seekable_animation" >
+        <action
+            android:id="@+id/action_seekableAnimationFragment_to_animationVectorFragment"
+            app:destination="@id/animationVectorFragment" />
+    </fragment>
 </navigation>
