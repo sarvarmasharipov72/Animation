@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animated-vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:drawable="@drawable/vector_anim_res">
+
+    <target
+        android:name="one"
+        android:animation="@animator/vector_animator" />
+    <target
+        android:name="two"
+        android:animation="@animator/vector_animator2" />
+    <target
+        android:name="three"
+        android:animation="@animator/vector_animator3" />
+
+</animated-vector>
