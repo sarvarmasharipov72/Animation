@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main_graph"
+    app:startDestination="@id/animationVectorFragment">
+
+    <fragment
+        android:id="@+id/animationVectorFragment"
+        android:name="com.sarvarmasharipov72.animation.AnimationVectorFragment"
+        android:label="@string/vetor_animation"
+        tools:layout="@layout/fragment_animation_vector" />
+</navigation>
